@@ -18,8 +18,11 @@ print "SELFBOT PRANKBOTS\nSUCCES LOGIN\nSELAMAT MENGGUNAKANYA KAWAN"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-          『B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́』
+helpMessage = "" "♻⚠═हईざণধΩণနບิЮईह═⚠♻
+         -──────┅═ই۝ई═┅──────-
+『◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ◉⊱』
+       『◉ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ◉』
+—──────┅═ই۝ई═┅──────—
   ✰ Me
   ✰ Add
   ✰ Cn "text"
@@ -108,8 +111,10 @@ helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́�
   ★ Prolink:on/off
   ★ Proinvite:on/off
   ★ Procancel:on/off
-     『B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́』
-(╚••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╝)
+   —──────┅═ই۝ई═┅──────
+『◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ◉⊱』
+       『◉ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ◉』
+—──────┅═ই۝ई═┅──────—
 """
 helo="""SILAHKAN GUNAKAN BOT NYA .JIKA KAMU MAU TAMBAHIN ATAU EDIT LAGI SCRIPT NYA SILAHKN
 TAPI TOLONG HARGAI SAYA UNTUK TIDAK MERUBAH LEBEL PRANKBOTS DAN AUTO ADD ATAU AUTO LIKE TERIMAKASIH :D"""
